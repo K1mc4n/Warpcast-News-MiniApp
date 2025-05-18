@@ -1,5 +1,5 @@
 
-import { useFrame } from '@farcaster/frame-sdk';
+import { FarcasterClient } from '@farcaster/frame-sdk';
 import { useEffect, useState } from 'react';
 
 export default function WarpcastButton() {
