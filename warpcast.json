@@ -1,0 +1,6 @@
+{
+  "name": "Warpcast News Portal",
+  "description": "Stay updated with top news directly on Warpcast.",
+  "icon": "/favicon.ico",
+  "url": "https://warpcast-news-portal.vercel.app"
+}
