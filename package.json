@@ -8,6 +8,7 @@
   },
   "dependencies": {
     "@farcaster/frame-sdk": "^0.0.45",
-    "next": "^15.3.2"
+    "next": "^15.3.2",
+    "next-auth": "^4.24.11"
   }
 }
