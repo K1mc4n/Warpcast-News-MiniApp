@@ -9,7 +9,7 @@
   "dependencies": {
     "@farcaster/frame-sdk": "^0.0.45",
     "next": "^15.3.2",
-    "next-auth": "^4.20.0",
+    "next-auth": "^4.22.1",
     "react": "18.2.0",
     "react-dom": "18.2.0"
   }
