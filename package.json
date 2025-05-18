@@ -7,8 +7,9 @@
     "start": "next start"
   },
   "dependencies": {
-    "@farcaster/frame-sdk": "^0.0.45",
-    "next": "^15.3.2",
-    "next-auth": "^4.24.11"
+  "next": "^13.4.5",
+  "react": "18.2.0",
+  "react-dom": "18.2.0",
+  "next-auth": "^4.20.0"
   }
 }
