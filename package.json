@@ -7,10 +7,8 @@
     "start": "next start"
   },
   "dependencies": {
-    "next": "^15.3.2",
-    "next-auth": "^4.x.x",
-    "react": "^18.x.x",
-    "react-dom": "^18.x.x",
-    "tailwindcss": "^3.x.x"
-  }
+  "@farcaster/frame-sdk": "^1.0.0", // Pastikan versi ini sesuai
+  ...
+}
+
 }
